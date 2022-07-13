@@ -2,9 +2,10 @@
 
 ## Algorithms:
 
-| Algorithm | status |
+| Algorithm | Status |
 |-------------------|:------:|
 | VPG               |        |
+| DDQN              |        |
 | TRPO              |        |
 | PPO               |        |
 | DDPG              |        |
