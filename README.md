@@ -5,9 +5,11 @@
 | Algorithm | Status |
 |-------------------|:------:|
 | VPG               |        |
+| DQN               |        |
+| A2C               |        |
+| PPO               |        |
 | DDQN              |        |
 | TRPO              |        |
-| PPO               |        |
 | DDPG              |        |
 | Twin Delayed DDPG |        |
 | SAC               |        |
